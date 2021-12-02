@@ -1,1 +1,1 @@
-# machine_learning_supervised_challenge
+# Supervised Machine Learning Challenge
